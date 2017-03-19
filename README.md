@@ -16,6 +16,7 @@
 - [Fast and reliable UI tests on Android](https://labs.ribot.co.uk/fast-and-reliable-ui-tests-on-android-17c261b8220c?gi=cabbe81700f4#.mdfa1rn2c)
 - [从0到1打造直播 App(iOS /Android直播流程介绍整理](http://www.jianshu.com/p/db964ca48697)
 - [Android 自定义View合集](http://blog.csdn.net/u011507982/article/details/51199644)
+- [gradle 实战](https://lippiouyang.gitbooks.io/gradle-in-action-cn/content/)
 
 
 
@@ -57,10 +58,14 @@
 - [浅谈移动Web开发（上）：深入概念](http://www.infoq.com/cn/articles/development-of-the-mobile-web-deep-concept)
 - [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
 - [React-Native学习指南](https://github.com/reactnativecn/react-native-guide)
+- [understanding-ecmascript6](https://sagittarius-rev.gitbooks.io/understanding-ecmascript-6-zh-ver/content/chapter_1.html)
 
 
 ## 后端
 - [高并发秒杀视频课程](http://www.imooc.com/u/2145618/courses?sort=publish)
+- [mysql 中文文档](http://doc.mysql.cn/mysql5/refman-5.1-zh.html-chapter/)
+- [基于Token的WEB后台认证机制](http://www.cnblogs.com/xiekeli/p/5607107.html)
+
 
 ## 通用技术资源
 - [Java常用加密技术和代码总结](http://blog.csdn.net/amurocrash/article/details/51916516)
@@ -76,7 +81,7 @@
 - [程序员的书籍资源](https://zhuanlan.zhihu.com/p/23857699?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 - [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/#leanpub-auto-block-bindings)
 - [React Native Training](https://unbug.gitbooks.io/react-native-training/content/)
-
+- [我的 java 后端书籍](http://blog.csdn.net/u011116672/article/details/51036883)
 
 
 ## 其他一些玩具资源，ide 皮肤等
