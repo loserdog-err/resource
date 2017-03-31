@@ -6,6 +6,8 @@
 ## Android
 ### 架构
 - [Android架构思考(模块化、多进程)](http://blog.spinytech.com/2016/12/28/android_modularization/)
+- [组件化，路由设计思路分析](http://www.jianshu.com/p/76da56b3bd55)
+
 
 ### 基础知识
 - [Android 多进程介绍](http://blog.spinytech.com/2016/11/15/android_multiple_process/)
@@ -56,7 +58,6 @@
 - [CSS浮动(float,clear)通俗讲解](http://www.cnblogs.com/iyangyuan/archive/2013/03/27/2983813.html)
 - [React-Native学习指南](https://github.com/reactnativecn/react-native-guide)
 - [浅谈移动Web开发（上）：深入概念](http://www.infoq.com/cn/articles/development-of-the-mobile-web-deep-concept)
-- [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
 - [React-Native学习指南](https://github.com/reactnativecn/react-native-guide)
 - [understanding-ecmascript6](https://sagittarius-rev.gitbooks.io/understanding-ecmascript-6-zh-ver/content/chapter_1.html)
 
@@ -82,6 +83,11 @@
 - [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/#leanpub-auto-block-bindings)
 - [React Native Training](https://unbug.gitbooks.io/react-native-training/content/)
 - [我的 java 后端书籍](http://blog.csdn.net/u011116672/article/details/51036883)
+- [Redux 中文文档](http://cn.redux.js.org/docs/introduction/CoreConcepts.html)
+- [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
+- [Mobx 中文文档](https://suprise.gitbooks.io/mobx-cn/content/best/pitfalls.html)
+
+
 
 
 ## 其他一些玩具资源，ide 皮肤等
