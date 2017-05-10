@@ -95,3 +95,6 @@
 - [idea 注册码](http://idea.lanyus.com/)
 - [idea theme](http://color-themes.com/?view=index)
 - idea 2017激活：进入ide主页面，help-register-license server,然后输入 http://idea.iteblog.com/key.php  即可
+- [搬瓦工 vps finalspeed 教程](http://www.jianshu.com/p/d61671195c53)
+
+
