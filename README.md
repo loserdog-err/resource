@@ -19,6 +19,8 @@
 - [从0到1打造直播 App(iOS /Android直播流程介绍整理](http://www.jianshu.com/p/db964ca48697)
 - [Android 自定义View合集](http://blog.csdn.net/u011507982/article/details/51199644)
 - [gradle 实战](https://lippiouyang.gitbooks.io/gradle-in-action-cn/content/)
+- [也许，这样理解HTTPS更容易](http://showme.codes/2017-02-20/understand-https/)
+
 
 
 
